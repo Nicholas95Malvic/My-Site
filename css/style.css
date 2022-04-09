@@ -1,0 +1,108 @@
+body {
+  background-color: #35A7FF;
+  text-align:center;
+  margin: 0 0 0 0;
+}
+a {
+  font-family: 'Anton';
+}
+hr {
+  width: 80%;
+ border-top: 10px dotted;
+ border-bottom: none;
+}
+h1 {
+  font-size: 60px;
+  line-height:2;
+  color: #38618C;
+  font-family: 'Rubik Moonrocks';
+}
+h2 {
+  font-size: 40px;
+  font-family: 'Anton';
+  color:#38618C;
+
+}
+p {
+  font-size: 20px;
+  color: #26547C;
+  font-family: 'Homemade Apple';
+}
+.intro {
+  margin: 15px 20px;
+}
+.image {
+  float: left;
+  height:40em;
+  border-radius: 50px;
+  padding-top: 0;
+  margin-top: 0;
+}
+.saturn {
+  height: 5em;
+  position: relative;
+  left: 350px;
+}
+.first-hr {
+  margin-top: 30px;
+}
+.second-hr {
+  position: relative;
+}
+.intro {
+  padding-top: 100px;
+}
+.second-p {
+  margin: auto auto 30px auto;
+  width: 40%;
+  position: relative;
+  padding-top: 50px;
+}
+.bottom-container {
+  margin: auto 0 0 0;
+}
+.face {
+  height: 100px;
+}
+.yt {
+  height: 100px;
+}
+.gag {
+  height: 100px;
+}
+.btn {
+  padding-top: 50px;
+  background: #114d75;
+  background-image: -webkit-linear-gradient(top, #114d75, #e2ebf0);
+  background-image: -moz-linear-gradient(top, #114d75, #e2ebf0);
+  background-image: -ms-linear-gradient(top, #114d75, #e2ebf0);
+  background-image: -o-linear-gradient(top, #114d75, #e2ebf0);
+  background-image: linear-gradient(to bottom, #114d75, #e2ebf0);
+  -webkit-border-radius: 58;
+  -moz-border-radius: 58;
+  border-radius: 58px;
+  text-shadow: 7px 6px 3px #0d010d;
+  -webkit-box-shadow: 0px 1px 3px #2e142e;
+  -moz-box-shadow: 0px 1px 3px #2e142e;
+  box-shadow: 0px 1px 3px #2e142e;
+  font-family: Arial;
+  color: #fcfcfc;
+  font-size: 44px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6b9ab3;
+  background-image: -webkit-linear-gradient(top, #6b9ab3, #d0d2d4);
+  background-image: -moz-linear-gradient(top, #6b9ab3, #d0d2d4);
+  background-image: -ms-linear-gradient(top, #6b9ab3, #d0d2d4);
+  background-image: -o-linear-gradient(top, #6b9ab3, #d0d2d4);
+  background-image: linear-gradient(to bottom, #6b9ab3, #d0d2d4);
+  text-decoration: none;
+}
+.icone {
+  position: relative;
+  bottom: 40px;
+}
